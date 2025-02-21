@@ -1,0 +1,1 @@
+This repository contains an example of a common Dockerfile error and its solution. The error occurs due to incorrect order of COPY instruction for requirements file, leading to dependency installation failure.  The fixed Dockerfile demonstrates the correct order of operations.
